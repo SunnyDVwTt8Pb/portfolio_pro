@@ -145,14 +145,14 @@ const Contact = () => {
           <Box>
             <h3>contacts info</h3>
             <a href="#">
-            +91 8886951645
+            +91 7569319421
             </a>
             <a href="#">
-            chennupati2504@gmail.com
+            sunny14042003@gmail.com
             </a>
             <a href="#">
-             andhra pradesh, bapatla district,
-              martur mandal-523261
+             andhra pradesh, Nellore district,
+               Nellore rural -524002
             </a>
           </Box>
           <Box>
@@ -169,7 +169,7 @@ const Contact = () => {
           </Box>
         </BoxContainer>
         <Credit>
-          credit by <span>lakshman</span> | all rights reserved!
+          credit by <span>Praveen Kumar</span> | all rights reserved!
         </Credit>
       </Footer>
     </Container>
