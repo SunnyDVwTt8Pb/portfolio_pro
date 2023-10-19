@@ -9,7 +9,7 @@ function Header() {
     
     <div className="header-content">
         <img src={headerImage} alt="Header Image" className="header-image" />
-        <h1 className="header-name">Chennupati Venkata Lakshman </h1>
+        <h1 className="header-name">Konduru Praveen Kumar </h1>
       </div>
       <h3 >I am third year senior at vellore institute of technology(VIT) in Amaravathi <br/>
         ,Currently pursuing 
